@@ -1,0 +1,8 @@
+boot strap
+document 
+script copy 
+navigation bar
+breadcrumb
+alert
+dismiss alert
+badges
